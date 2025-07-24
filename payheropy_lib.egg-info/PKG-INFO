@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: payheropy-lib
+Version: 0.1.0
+Summary: A simple Python library for integrating with PayHero payments
+Author: Oscar Madegwa
+Author-email: madegwaoscar@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license
+Dynamic: license-file
+Dynamic: summary

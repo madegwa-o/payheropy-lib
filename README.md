@@ -19,7 +19,7 @@ twine upload dist/*
 
 ## 📦 Installation
 ```bash
-pip install payheropy
+pip install payheropy-lib
 ```
 
 ## 🛠️ Usage
